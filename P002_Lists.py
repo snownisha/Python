@@ -1,4 +1,4 @@
-name = ['Snow', 'Nisha', 'Doss']
+name = ['Amala', 'Nisha', 'Doss']
 print(name)
 name.append('Nirmal')
 name.insert(2, 'Steffi')
