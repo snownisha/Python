@@ -1,4 +1,4 @@
-String = "MOM"
+String = "ANIMAL"
 
 StringReverse = reversed(String)
 
