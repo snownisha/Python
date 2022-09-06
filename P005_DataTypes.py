@@ -1,4 +1,4 @@
-
+#Python Data Types
 #Numeric
 num= 2.5
 print(type(num))
