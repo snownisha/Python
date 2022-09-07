@@ -1,3 +1,4 @@
+#For Loop
 #For printing the lines separately
 x = ['Nisha', 24, 'Offenburg']
 
