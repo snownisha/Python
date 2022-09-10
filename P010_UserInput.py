@@ -1,3 +1,4 @@
+#Getting Inputs from the users
 FirstName= input("what is your first name: ")
 SecondName= input("what is your second name: ")
 print("Hi " + FirstName + " " + SecondName)

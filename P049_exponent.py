@@ -1,3 +1,4 @@
+#Program to find exponent
 def exp(base,exp):
     expo = base**exp
     return expo
