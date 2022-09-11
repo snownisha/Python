@@ -1,2 +1,2 @@
-#Display Strings in Python
+#Display Strings
 print("My ", " Name ", " is ", " Snow ", sep= "**")
