@@ -1,3 +1,4 @@
+#Program to count the total number of digits
 num = 75869
 count = 0
 while num != 0:

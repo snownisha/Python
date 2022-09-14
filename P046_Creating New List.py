@@ -1,4 +1,3 @@
-#Program to create new list
 def Merge(List1, List2):
     result_list = []
 
