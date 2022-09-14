@@ -1,4 +1,4 @@
-start = 25
+start = 20
 end = 50
 print("Prime numbers between", start, "and", end, "are:")
 
