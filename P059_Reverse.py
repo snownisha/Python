@@ -1,4 +1,4 @@
-#Program to find Reverse Number in Python
+#Program to find Reverse Number
 num = 76542
 reverse_number = 0
 print("Given Number ", num)
