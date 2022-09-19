@@ -1,9 +1,9 @@
 x = 5
-start = 2
+str = 2
 sum = 0
 
 for i in range(0, x):
-    print(start, end="+")
-    sum+= start
-    start = start * 10 + 2
+    print(str, end="+")
+    sum+= str
+    start = str * 10 + 2
 print("\n Sum of above series is:", sum)
