@@ -1,5 +1,4 @@
-#Program to find Reverse Number
-num = 76542
+num = 1234567
 reverse_number = 0
 print("Given Number ", num)
 while num > 0:
