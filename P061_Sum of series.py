@@ -1,4 +1,4 @@
-#Program to find 
+#Program to find the
 a = 6
 ser= 2
 sum = 0
