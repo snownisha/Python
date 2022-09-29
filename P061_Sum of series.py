@@ -1,4 +1,4 @@
-#Program to print the sum of
+#Program to print the su
 x = 6
 ser= 2
 sum = 0
