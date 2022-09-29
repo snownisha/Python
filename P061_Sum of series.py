@@ -1,9 +1,9 @@
 #Program to print the sum of series
-a = 6
+x = 6
 ser= 2
 sum = 0
 
-for i in range(0, a):
+for i in range(0, x):
     print(ser, end="+")
     sum+= ser
     start = ser * 10 + 2
