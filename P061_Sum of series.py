@@ -1,4 +1,4 @@
-#Program to find the sum of series in
+#Program to find the sum of series in pyth
 x = 6
 ser= 2
 sum = 0
