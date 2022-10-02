@@ -1,4 +1,4 @@
-#Program to find the cube of a nu
+#Program to find the cube of a n
 number = 5
 for i in range(1, num+ 1):
     print("Current Num:", i, " & cube is", (i * i * i))
