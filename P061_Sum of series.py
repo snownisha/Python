@@ -1,4 +1,4 @@
-#Program to find 
+#Program to fin
 x = 6
 ser= 2
 sum = 0
