@@ -1,4 +1,4 @@
-#Program to find the s
+#Program to find the
 x = 6
 ser= 2
 sum = 0
