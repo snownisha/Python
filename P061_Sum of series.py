@@ -1,4 +1,4 @@
-#Program to find the
+#Program to find th
 x = 6
 ser= 2
 sum = 0
