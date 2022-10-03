@@ -1,4 +1,4 @@
-#Program to find the sum of series
+#Program to find the sum of serie
 x = 6
 ser= 2
 sum = 0
