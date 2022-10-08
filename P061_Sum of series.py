@@ -1,4 +1,4 @@
-#Pro
+
 x = 6
 ser= 2
 sum = 0
