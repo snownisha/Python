@@ -1,4 +1,4 @@
-#Program to p
+#Program to
 x = 6
 ser= 2
 sum = 0
