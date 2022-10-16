@@ -1,4 +1,4 @@
-#Program to print the s
+#Program to print th
 x = 6
 ser= 2
 sum = 0
