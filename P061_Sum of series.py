@@ -1,4 +1,4 @@
-#Program to print t
+#Program to print
 x = 6
 ser= 2
 sum = 0
