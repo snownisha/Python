@@ -1,2 +1,2 @@
 # Python
-I have   Python and I will  uploading all my programs here
+I have    and I will  uploading all my programs here
