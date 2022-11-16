@@ -1,3 +1,4 @@
+#Binary Search
 pos = -1
 def search (list,n):
     l = 0
