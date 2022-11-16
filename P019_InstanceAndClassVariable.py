@@ -1,3 +1,4 @@
+#Instance and Class Variable
 class subjects:
     TotalMarks = 100
 
