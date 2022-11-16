@@ -1,4 +1,4 @@
-#operators in Python
+#operators
 #Arithmetic
 x=2
 y=3
