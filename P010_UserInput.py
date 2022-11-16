@@ -1,4 +1,4 @@
-#Getting Inputs from the users
+#Getting Inputs from the users in python
 FirstName= input("what is your first name: ")
 SecondName= input("what is your second name: ")
 print("Hi " + FirstName + " " + SecondName)
