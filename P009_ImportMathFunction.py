@@ -1,4 +1,4 @@
-import math
+import math in python
 print(math.sqrt(36))
 print(math.ceil(67.90))
 print(math.floor(67.90))
