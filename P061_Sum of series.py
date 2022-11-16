@@ -1,9 +1,10 @@
-n = 5
-start = 2
+#Program to print the sum of series
+x = 6
+ser= 2
 sum = 0
 
-for i in range(0, n):
-    print(start, end="+")
-    sum+= start
-    start = start * 10 + 2
+for i in range(0, x):
+    print(ser, end="+")
+    sum+= ser
+    start = ser * 10 + 2
 print("\n Sum of above series is:", sum)
