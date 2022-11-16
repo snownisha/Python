@@ -1,6 +1,5 @@
+#Class & Object
 class computer:
-
-    
 
     def configuration(self):
         print('Mac', 'white')
