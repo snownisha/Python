@@ -1,3 +1,4 @@
+#Inheritance in Python
 class Music:
     lang = 'English'
     Color = 'Green'
