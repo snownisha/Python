@@ -1,4 +1,4 @@
-#For Loop
+#For Loop in Python
 #For printing the lines separately
 x = ['Nisha', 24, 'Offenburg']
 
