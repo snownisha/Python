@@ -1,3 +1,4 @@
+#Exception Handling
 a = 5
 b = 0
 try:
