@@ -1,4 +1,4 @@
-
+#Linear Search
 def search(list,n):
     i=0
     while i< len(list):
