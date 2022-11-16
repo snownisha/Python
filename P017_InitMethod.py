@@ -1,3 +1,4 @@
+#Init Method in Python
 class city:
     def __init__(self, city, district):
         self.city = city
