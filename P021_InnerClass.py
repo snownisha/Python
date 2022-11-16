@@ -1,3 +1,4 @@
+#Inner Class
 class student:
 
     def __init__(self, name, rollno):
