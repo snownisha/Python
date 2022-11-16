@@ -1,3 +1,4 @@
+#Constructor in Inheritance
 class A:
 
     def __init__(self):
