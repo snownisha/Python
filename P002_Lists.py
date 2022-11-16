@@ -1,4 +1,5 @@
 #Lists in Python
+
 name = ['Amala', 'Nisha', 'Doss']
 print(name)
 name.append('Nirmal')
