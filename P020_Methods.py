@@ -1,3 +1,4 @@
+#Method in Python
 class student:
     school = 'Offenburg University'
 
