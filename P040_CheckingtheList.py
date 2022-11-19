@@ -1,4 +1,4 @@
-
+#Checking the list
 def number(list):
     FirstNum = list[0]
     LastNum = list[-1]
