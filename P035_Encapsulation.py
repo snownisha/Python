@@ -1,3 +1,4 @@
+#Encapsulation
 class Account:
     def __init__(self):
         self.setBalance = 0
