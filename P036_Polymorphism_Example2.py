@@ -1,3 +1,4 @@
+#Polymorphism
 class Human:
     def eyes(self):
         print("I can see the world")
