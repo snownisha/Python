@@ -1,4 +1,4 @@
-#String Palindrome
+#String Palindrome in python
 String = "ANIMAL"
 
 StringReverse = reversed(String)
