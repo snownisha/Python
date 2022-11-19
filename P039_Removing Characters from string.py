@@ -1,4 +1,4 @@
-
+#Removing the characters from string
 def remove_chars4(word,index):
     x = word[4:]
     return x
