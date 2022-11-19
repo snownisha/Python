@@ -1,4 +1,4 @@
-
+#String Palindrome
 String = "ANIMAL"
 
 StringReverse = reversed(String)
