@@ -1,4 +1,4 @@
-#Program to count the total number of digits
+#Program to count the total number of digits in Python
 num = 75869
 count = 0
 while num != 0:
