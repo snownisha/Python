@@ -1,4 +1,4 @@
-#Fibonacci Sequence
+#Fibonacci Sequence in Python
 num1, num2 = 0, 1
 print("Fibonacci sequence:")
 for i in range(10):
