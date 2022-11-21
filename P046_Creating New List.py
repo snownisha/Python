@@ -1,3 +1,4 @@
+#Creating new list in python
 def Merge(List1, List2):
     result_list = []
 
